@@ -1,6 +1,6 @@
 # Afro-Sinto
 
-###### Configuration to install Python3 and Selenium in Linux
+####Configuration to install Python3 and Selenium in Linux
 
 **sudo apt-get install python3** to install python3
 
@@ -10,8 +10,8 @@
 
 
 For running the app execute:
-`python3 index.py` *Is not working yet
+`python3 index.py` *Is not working yet*
 
 
 Documentation:
- [Selenium](https://www.seleniumhq.org/) *See Selenium IDE
+ > [Selenium](https://www.seleniumhq.org/) *See Selenium IDE*
