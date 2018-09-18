@@ -17,5 +17,7 @@ For running the app execute:
 
 Documentation:
  > [Selenium](https://www.seleniumhq.org/) *Selenium IDE*
+
  > [Sintax Readme](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
+
  > [Git Commant](http://rogerdudler.github.io/git-guide/)
