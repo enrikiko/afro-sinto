@@ -35,3 +35,69 @@ JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommon
 [Child 10852, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
 [Child 10852, Chrome_Chil1537384613727	Marionette	INFO	Stopped listening on port 54517
 [GPU 11372, Chr[Parent 8368, Gecko_IOThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+1537390345955	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.kdC7jjyGjo2M"
+1537390346964	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1537390346964	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1537390346964	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1537390346981	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1537390346981	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1537390346982	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1537390347006	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1537390347006	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1537390347006	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1537390347358	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1537390347359	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1537390347360	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1537390347360	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1537390347360	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1537390347360	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1537390347361	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1537390347361	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1537390347361	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1537390347364	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1537390347364	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1537390347364	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1537390347365	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1537390347365	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1537390347365	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1537390347384	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1537390347385	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1537390347385	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1537390350141	Marionette	INFO	Listening on port 40905
+1537390350335	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/cb75c7e9daa2.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/cb75c7e9daa2.js, line 1: unreachable code after return statement
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1537390845014	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.XW9PT9NWrTdP"
+1537390846363	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1537390846363	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1537390846363	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1537390846399	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1537390846399	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1537390846399	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1537390846420	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1537390846420	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1537390846420	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1537390846687	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1537390846688	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1537390846688	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1537390846689	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1537390846689	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1537390846689	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1537390846694	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1537390846694	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1537390846694	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1537390846697	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1537390846697	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1537390846697	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1537390846702	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1537390846702	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1537390846702	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1537390846741	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1537390846741	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1537390846741	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1537390849885	Marionette	INFO	Listening on port 39467
+1537390849993	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/cb75c7e9daa2.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/cb75c7e9daa2.js, line 1: unreachable code after return statement
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
