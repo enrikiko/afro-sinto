@@ -62,30 +62,101 @@ def getXpath(path):
         print("xpath found!")
         return item
 
+def ribOutBanned():
+    item = False
+    count = 100
+    while item == False and count >= 0:
+        sleep(0.2)
+        item=checkExistsByXpath('//body//div[position()=2]//div//button')
+        count = count - 1
+    if count <= 0:
+        print("Banned not found!")
+    else:
+        item[0].click()
+        return("Banned delated!")
 
-# def getPlaceholder(text):
-#     item = False
-#     count = 5
-#     while item == False and count >= 0:
-#         sleep(0.2)
-#         print("searching", text)
-#         item=checkExistsByPlaceholder(text)
-#         # count = count - 1
-#     if count <= 0:
-#         print("Placeholder not found!")
-#     else:
-#         print("Placeholder found!")
-#         return item
+
+def addFriend(name):
+    try:
+        searchInput = getXpath("//input[@placeholder='Search']")
+    except NoSuchElementException:
+        return "Add Friend FAILS!  ERROR-001"
+    try:
+        searchInput[0].send_keys(name)
+        searchInput[0].send_keys(Keys.ENTER)
+    except NoSuchElementException:
+        return "Add Friend FAILS!  ERROR-002"
+    try:
+        users = getXpath("//span//section//nav//div[position()=2]//div//div//div[position()=2]//div/div[position()=2]//div//a[position()=2]")
+        users[0].click()
+    except NoSuchElementException:
+        return "Add Friend FAILS!  ERROR-003"
+    try:
+        button = getXpath('//button[contains(text(), "Follow")]')
+        button[0].click()
+    except NoSuchElementException:
+        return "Add Friend FAILS!  ERROR-004"
+    return "Friend Added!"
+
+
+def delayFriend(name):
+    try:
+        searchInput = getXpath("//input[@placeholder='Search']")
+    except NoSuchElementException:
+        return "Delay Friend FAILS!  ERROR-001"
+    try:
+        searchInput[0].send_keys(name)
+        searchInput[0].send_keys(Keys.ENTER)
+    except NoSuchElementException:
+        return "Delay Friend FAILS!  ERROR-002"
+    try:
+        users = getXpath("//span//section//nav//div[position()=2]//div//div//div[position()=2]//div/div[position()=2]//div//a[position()=2]")
+        users[0].click()
+    except NoSuchElementException:
+        return "Delay Friend FAILS!  ERROR-003"
+    try:
+        button = getXpath('//button[contains(text(), "Following")]')
+        button[0].click()
+    except NoSuchElementException:
+        return "Delay Friend FAILS!  ERROR-004"
+    try:
+        button = getXpath('//button[contains(text(), "Unfollow")]')
+        button[0].click()
+    except NoSuchElementException:
+        return "Delay Friend FAILS!  ERROR-005"
+    return "Friend Delayed!"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #
-# def checkExistsByPlaceholder(path):
-#     try:
-#         print("checking", path)
-#         text = "//input[@placeholder='"+path+"']"
-#         print(text)
-#         elem=browser.find_elements_by_xpath(text)
-#     except NoSuchElementException:
-#         return False
-#     if len(elem) == 0:
-#         return False
-#     else:
-#         return elem
