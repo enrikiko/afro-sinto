@@ -3294,3 +3294,746 @@ JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommon
 1537628952632	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483678
 1537628952634	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483679
 1537628952708	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+[Parent 9296, Gecko_IOThread] WARNING: pipe error (99): Connection reset by peer: file /build/firefox-LCnNpq/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1537638476206	Marionette	INFO	Stopped listening on port 35201
+1537638483672	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.lwWDsfWxA556"
+
+(firefox:10097): Gtk-WARNING **: 19:48:04.566: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:10097): Gtk-WARNING **: 19:48:04.566: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1537638486042	Marionette	INFO	Listening on port 39651
+1537638486097	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537638486177	Marionette	DEBUG	[2147483649] Frame script loaded
+1537638486182	Marionette	DEBUG	[2147483649] Frame script registered
+1537638486216	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1537638491266	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/7aff3b3b6c88.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/7aff3b3b6c88.js, line 1: unreachable code after return statement
+1537638492250	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.instagram.com/accounts/login/?source=auth_switcher
+1537638495128	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.instagram.com/accounts/login/?source=auth_switcher
+
+(/usr/lib/firefox/firefox:10161): dconf-WARNING **: 19:48:17.211: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1537638497635	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/7aff3b3b6c88.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/7aff3b3b6c88.js, line 1: unreachable code after return statement
+1537638500104	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1537638502459	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+[Parent 10097, Gecko_IOThread] WARNING: pipe error (44): Connection reset by peer: file /build/firefox-LCnNpq/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Parent 10097, Gecko_IOThread] WARNING: pipe error (69): Connection reset by peer: file /build/firefox-LCnNpq/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1537638706183	Marionette	INFO	Stopped listening on port 39651
+1537638711337	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.nXzSx0riSQrS"
+
+(firefox:10318): Gtk-WARNING **: 19:51:52.270: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:10318): Gtk-WARNING **: 19:51:52.271: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1537638713638	Marionette	INFO	Listening on port 34055
+1537638713687	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537638713758	Marionette	DEBUG	[2147483649] Frame script loaded
+1537638713767	Marionette	DEBUG	[2147483649] Frame script registered
+1537638713798	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1537638715077	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/7aff3b3b6c88.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/7aff3b3b6c88.js, line 1: unreachable code after return statement
+1537638716296	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.instagram.com/accounts/login/?source=auth_switcher
+1537638717562	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.instagram.com/accounts/login/?source=auth_switcher
+
+(/usr/lib/firefox/firefox:10378): dconf-WARNING **: 19:51:59.187: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1537638719613	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/7aff3b3b6c88.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/7aff3b3b6c88.js, line 1: unreachable code after return statement
+1537638722254	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1537638724611	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+[Parent 10318, Gecko_IOThread] WARNING: pipe error (69): Connection reset by peer: file /build/firefox-LCnNpq/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1537639095413	Marionette	INFO	Stopped listening on port 34055
+1537639105066	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.XlHg8MuMtIqQ"
+
+(firefox:10558): Gtk-WARNING **: 19:58:25.951: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:10558): Gtk-WARNING **: 19:58:25.951: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1537639107357	Marionette	INFO	Listening on port 35697
+1537639107400	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537639107464	Marionette	DEBUG	[2147483649] Frame script loaded
+1537639107465	Marionette	DEBUG	[2147483649] Frame script registered
+1537639107493	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1537639108843	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/7aff3b3b6c88.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/7aff3b3b6c88.js, line 1: unreachable code after return statement
+1537639109887	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.instagram.com/accounts/login/?source=auth_switcher
+1537639110812	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.instagram.com/accounts/login/?source=auth_switcher
+
+(/usr/lib/firefox/firefox:10626): dconf-WARNING **: 19:58:31.424: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1537639111852	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/7aff3b3b6c88.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/7aff3b3b6c88.js, line 1: unreachable code after return statement
+1537639114279	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1537639116989	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/7aff3b3b6c88.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/7aff3b3b6c88.js, line 1: unreachable code after return statement
+[Parent 10558, Gecko_IOThread] WARNING: pipe error (69): Connection reset by peer: file /build/firefox-LCnNpq/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1537639375731	Marionette	INFO	Stopped listening on port 35697
+1537639843336	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.YYUlwc78wdcu"
+
+(firefox:10809): Gtk-WARNING **: 20:10:44.232: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:10809): Gtk-WARNING **: 20:10:44.232: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1537639845616	Marionette	INFO	Listening on port 42143
+1537639845660	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537639845737	Marionette	DEBUG	[2147483649] Frame script loaded
+1537639845747	Marionette	DEBUG	[2147483649] Frame script registered
+1537639845775	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1537639849231	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/7aff3b3b6c88.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/7aff3b3b6c88.js, line 1: unreachable code after return statement
+1537639850253	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.instagram.com/accounts/login/?source=auth_switcher
+1537639851559	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.instagram.com/accounts/login/?source=auth_switcher
+
+(/usr/lib/firefox/firefox:10874): dconf-WARNING **: 20:10:53.220: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1537639853646	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/7aff3b3b6c88.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/7aff3b3b6c88.js, line 1: unreachable code after return statement
+1537639855924	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A000D,name=PHttpChannel::Msg_RemoveCorsPreflightCacheEntry) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A0006,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+[Parent 10809, Gecko_IOThread] WARNING: pipe error (69): Connection reset by peer: file /build/firefox-LCnNpq/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1537639928015	Marionette	INFO	Stopped listening on port 42143
+1537639937722	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.xIIbN7xdW7Mh"
+
+(firefox:11030): Gtk-WARNING **: 20:12:18.573: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:11030): Gtk-WARNING **: 20:12:18.573: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1537639939844	Marionette	INFO	Listening on port 42435
+1537639939955	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537639940050	Marionette	DEBUG	[2147483649] Frame script loaded
+1537639940054	Marionette	DEBUG	[2147483649] Frame script registered
+1537639940090	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1537639941307	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/7aff3b3b6c88.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/7aff3b3b6c88.js, line 1: unreachable code after return statement
+1537639942334	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.instagram.com/accounts/login/?source=auth_switcher
+1537639943304	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.instagram.com/accounts/login/?source=auth_switcher
+
+(/usr/lib/firefox/firefox:11129): dconf-WARNING **: 20:12:24.894: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1537639945319	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/7aff3b3b6c88.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/7aff3b3b6c88.js, line 1: unreachable code after return statement
+1537639947891	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1537639952009	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1537640009780	Marionette	INFO	Stopped listening on port 42435
+1537640020699	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Gt9csF1Spk4x"
+
+(firefox:11275): Gtk-WARNING **: 20:13:41.536: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:11275): Gtk-WARNING **: 20:13:41.536: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1537640022761	Marionette	INFO	Listening on port 33405
+1537640022826	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537640022897	Marionette	DEBUG	[2147483649] Frame script loaded
+1537640022911	Marionette	DEBUG	[2147483649] Frame script registered
+1537640022949	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1537640025320	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/7aff3b3b6c88.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/7aff3b3b6c88.js, line 1: unreachable code after return statement
+1537640026256	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.instagram.com/accounts/login/?source=auth_switcher
+1537640028058	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.instagram.com/accounts/login/?source=auth_switcher
+
+(/usr/lib/firefox/firefox:11372): dconf-WARNING **: 20:13:50.153: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1537640030576	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/7aff3b3b6c88.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/7aff3b3b6c88.js, line 1: unreachable code after return statement
+1537640228995	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ZhioxHvekG3T"
+
+(firefox:11554): Gtk-WARNING **: 20:17:09.833: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:11554): Gtk-WARNING **: 20:17:09.834: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1537640231311	Marionette	INFO	Listening on port 38145
+1537640231426	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537640231498	Marionette	DEBUG	[2147483649] Frame script loaded
+1537640231502	Marionette	DEBUG	[2147483649] Frame script registered
+1537640231520	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1537640235008	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/7aff3b3b6c88.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/7aff3b3b6c88.js, line 1: unreachable code after return statement
+1537640235989	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.instagram.com/accounts/login/?source=auth_switcher
+1537640237559	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.instagram.com/accounts/login/?source=auth_switcher
+
+(/usr/lib/firefox/firefox:11621): dconf-WARNING **: 20:17:20.060: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1537640240480	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/7aff3b3b6c88.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/7aff3b3b6c88.js, line 1: unreachable code after return statement
+1537640243041	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1537640246823	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+[Parent 11554, Gecko_IOThread] WARNING: pipe error (95): Connection reset by peer: file /build/firefox-LCnNpq/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Parent 11554, Gecko_IOThread] WARNING: pipe error (69): Connection reset by peer: file /build/firefox-LCnNpq/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1537640276525	Marionette	INFO	Stopped listening on port 38145
+[Parent 11275, Gecko_IOThread] WARNING: pipe error (82): Connection reset by peer: file /build/firefox-LCnNpq/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Parent 11275, Gecko_IOThread] WARNING: pipe error (66): Connection reset by peer: file /build/firefox-LCnNpq/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1537640293212	Marionette	INFO	Stopped listening on port 33405
+1537640295299	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ER4pptaaADaC"
+
+(firefox:11771): Gtk-WARNING **: 20:18:16.133: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:11771): Gtk-WARNING **: 20:18:16.134: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1537640297466	Marionette	INFO	Listening on port 33881
+1537640297541	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537640297611	Marionette	DEBUG	[2147483649] Frame script loaded
+1537640297624	Marionette	DEBUG	[2147483649] Frame script registered
+1537640297656	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1537640301278	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/7aff3b3b6c88.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/7aff3b3b6c88.js, line 1: unreachable code after return statement
+1537640302219	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.instagram.com/accounts/login/?source=auth_switcher
+1537640303592	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.instagram.com/accounts/login/?source=auth_switcher
+
+(/usr/lib/firefox/firefox:11852): dconf-WARNING **: 20:18:25.300: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1537640305709	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/7aff3b3b6c88.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/7aff3b3b6c88.js, line 1: unreachable code after return statement
+1537640308296	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1537640312256	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1537640312909	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/7aff3b3b6c88.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/7aff3b3b6c88.js, line 1: unreachable code after return statement
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1537643649164	Marionette	INFO	Stopped listening on port 33881
+1537643768818	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.J4Wn9kKHO07h"
+
+(firefox:12314): Gtk-WARNING **: 21:16:09.687: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:12314): Gtk-WARNING **: 21:16:09.687: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1537643771016	Marionette	INFO	Listening on port 33455
+1537643771054	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537643771148	Marionette	DEBUG	[2147483649] Frame script loaded
+1537643771155	Marionette	DEBUG	[2147483649] Frame script registered
+1537643771196	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1537643774738	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/7aff3b3b6c88.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/7aff3b3b6c88.js, line 1: unreachable code after return statement
+1537643775749	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.instagram.com/accounts/login/?source=auth_switcher
+1537643778899	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.instagram.com/accounts/login/?source=auth_switcher
+
+(/usr/lib/firefox/firefox:12371): dconf-WARNING **: 21:16:20.755: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1537643781165	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/7aff3b3b6c88.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/7aff3b3b6c88.js, line 1: unreachable code after return statement
+1537643783694	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/7aff3b3b6c88.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/7aff3b3b6c88.js, line 1: unreachable code after return statement
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1537644497766	Marionette	INFO	Stopped listening on port 33455
+1537644499873	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.cV9cJ3634vGO"
+
+(firefox:12701): Gtk-WARNING **: 21:28:20.764: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:12701): Gtk-WARNING **: 21:28:20.764: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1537644502261	Marionette	INFO	Listening on port 35585
+1537644502333	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537644502407	Marionette	DEBUG	[2147483649] Frame script loaded
+1537644502408	Marionette	DEBUG	[2147483649] Frame script registered
+1537644502440	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1537644505767	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/7aff3b3b6c88.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/7aff3b3b6c88.js, line 1: unreachable code after return statement
+1537644507008	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.instagram.com/accounts/login/?source=auth_switcher
+1537644510821	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.instagram.com/accounts/login/?source=auth_switcher
+
+(/usr/lib/firefox/firefox:12766): dconf-WARNING **: 21:28:32.062: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1537644512481	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/7aff3b3b6c88.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/7aff3b3b6c88.js, line 1: unreachable code after return statement
+[Parent 12701, Gecko_IOThread] WARNING: pipe error (69): Connection reset by peer: file /build/firefox-LCnNpq/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1537644554187	Marionette	INFO	Stopped listening on port 35585
+1537644556504	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.1ZS0WdW1EXhd"
+
+(firefox:12902): Gtk-WARNING **: 21:29:17.406: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:12902): Gtk-WARNING **: 21:29:17.407: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1537644559011	Marionette	INFO	Listening on port 41957
+1537644559043	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537644559111	Marionette	DEBUG	[2147483649] Frame script loaded
+1537644559113	Marionette	DEBUG	[2147483649] Frame script registered
+1537644559148	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1537644560550	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/7aff3b3b6c88.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/7aff3b3b6c88.js, line 1: unreachable code after return statement
+1537644561634	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.instagram.com/accounts/login/?source=auth_switcher
+1537644562479	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.instagram.com/accounts/login/?source=auth_switcher
+
+(/usr/lib/firefox/firefox:12994): dconf-WARNING **: 21:29:23.230: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1537644563641	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/7aff3b3b6c88.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/7aff3b3b6c88.js, line 1: unreachable code after return statement
+1537645052832	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.6CiUYLd9NjAA"
+
+(firefox:13167): Gtk-WARNING **: 21:37:33.756: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:13167): Gtk-WARNING **: 21:37:33.756: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1537645055239	Marionette	INFO	Listening on port 40155
+1537645055276	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537645055356	Marionette	DEBUG	[2147483649] Frame script loaded
+1537645055362	Marionette	DEBUG	[2147483649] Frame script registered
+1537645055396	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1537645060578	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/7aff3b3b6c88.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/7aff3b3b6c88.js, line 1: unreachable code after return statement
+1537645062513	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.instagram.com/accounts/login/?source=auth_switcher
+1537645068225	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.instagram.com/accounts/login/?source=auth_switcher
+
+(/usr/lib/firefox/firefox:13262): dconf-WARNING **: 21:37:48.933: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1537645069369	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/7aff3b3b6c88.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/7aff3b3b6c88.js, line 1: unreachable code after return statement
+1537645072010	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+[Parent 13167, Gecko_IOThread] WARNING: pipe error (98): Connection reset by peer: file /build/firefox-LCnNpq/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Parent 13167, Gecko_IOThread] WARNING: pipe error (73): Connection reset by peer: file /build/firefox-LCnNpq/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1537645099420	Marionette	INFO	Stopped listening on port 40155
+1537645102722	Marionette	INFO	Stopped listening on port 41957
+1537645108517	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.OFYEBObEUdZ0"
+
+(firefox:13404): Gtk-WARNING **: 21:38:29.479: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:13404): Gtk-WARNING **: 21:38:29.479: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1537645111063	Marionette	INFO	Listening on port 41953
+1537645111187	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537645111267	Marionette	DEBUG	[2147483649] Frame script loaded
+1537645111277	Marionette	DEBUG	[2147483649] Frame script registered
+1537645111319	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1537645111793	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/7aff3b3b6c88.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/7aff3b3b6c88.js, line 1: unreachable code after return statement
+1537645112904	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.instagram.com/accounts/login/?source=auth_switcher
+1537645113831	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.instagram.com/accounts/login/?source=auth_switcher
+
+(/usr/lib/firefox/firefox:13498): dconf-WARNING **: 21:38:36.598: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1537645117037	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/7aff3b3b6c88.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/7aff3b3b6c88.js, line 1: unreachable code after return statement
+1537645120585	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+[Parent 13404, Gecko_IOThread] WARNING: pipe error (97): Connection reset by peer: file /build/firefox-LCnNpq/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Parent 13404, Gecko_IOThread] WARNING: pipe error (69): Connection reset by peer: file /build/firefox-LCnNpq/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1537645184142	Marionette	INFO	Stopped listening on port 41953
+1537645329620	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.dHNZnQHDxXmU"
+
+(firefox:13648): Gtk-WARNING **: 21:42:10.552: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:13648): Gtk-WARNING **: 21:42:10.552: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1537645332123	Marionette	INFO	Listening on port 42579
+1537645332162	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537645332246	Marionette	DEBUG	[2147483649] Frame script loaded
+1537645332267	Marionette	DEBUG	[2147483649] Frame script registered
+1537645332284	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1537645333564	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/7aff3b3b6c88.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/7aff3b3b6c88.js, line 1: unreachable code after return statement
+1537645334593	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.instagram.com/accounts/login/?source=auth_switcher
+1537645336290	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.instagram.com/accounts/login/?source=auth_switcher
+
+(/usr/lib/firefox/firefox:13731): dconf-WARNING **: 21:42:18.361: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1537645338790	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/7aff3b3b6c88.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/7aff3b3b6c88.js, line 1: unreachable code after return statement
+1537645356196	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.3aHT4G4XqP8j"
+
+(firefox:13859): Gtk-WARNING **: 21:42:37.109: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:13859): Gtk-WARNING **: 21:42:37.110: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1537645358525	Marionette	INFO	Listening on port 37881
+1537645358647	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537645358742	Marionette	DEBUG	[2147483649] Frame script loaded
+1537645358756	Marionette	DEBUG	[2147483649] Frame script registered
+1537645358787	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1537645360912	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/7aff3b3b6c88.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/7aff3b3b6c88.js, line 1: unreachable code after return statement
+1537645361568	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.instagram.com/accounts/login/?source=auth_switcher
+1537645362103	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.instagram.com/accounts/login/?source=auth_switcher
+
+(/usr/lib/firefox/firefox:13955): dconf-WARNING **: 21:42:42.683: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1537645363128	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/7aff3b3b6c88.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/7aff3b3b6c88.js, line 1: unreachable code after return statement
+1537645365745	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1537711684824	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.1z5ZEeVPb5Cc"
+
+(firefox:3319): Gtk-WARNING **: 16:08:06.643: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:3319): Gtk-WARNING **: 16:08:06.643: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1537711688652	Marionette	INFO	Listening on port 41127
+1537711688681	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537711688764	Marionette	DEBUG	[2147483649] Frame script loaded
+1537711688773	Marionette	DEBUG	[2147483649] Frame script registered
+1537711688804	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1537711694173	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/7aff3b3b6c88.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/7aff3b3b6c88.js, line 1: unreachable code after return statement
+1537711695351	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.instagram.com/accounts/login/?source=auth_switcher
+1537711701760	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.instagram.com/accounts/login/?source=auth_switcher
+
+(/usr/lib/firefox/firefox:3436): dconf-WARNING **: 16:08:22.409: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1537711702813	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/7aff3b3b6c88.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/7aff3b3b6c88.js, line 1: unreachable code after return statement
+1537711705365	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1537711749173	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.QOAe9ETWxg7k"
+
+(firefox:3572): Gtk-WARNING **: 16:09:10.069: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:3572): Gtk-WARNING **: 16:09:10.069: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1537711751532	Marionette	INFO	Listening on port 41893
+1537711751607	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537711751684	Marionette	DEBUG	[2147483649] Frame script loaded
+1537711751687	Marionette	DEBUG	[2147483649] Frame script registered
+1537711751718	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1537711753835	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/7aff3b3b6c88.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/7aff3b3b6c88.js, line 1: unreachable code after return statement
+1537711754875	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.instagram.com/accounts/login/?source=auth_switcher
+1537711760456	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.instagram.com/accounts/login/?source=auth_switcher
+
+(/usr/lib/firefox/firefox:3669): dconf-WARNING **: 16:09:21.043: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1537711761475	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/7aff3b3b6c88.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/7aff3b3b6c88.js, line 1: unreachable code after return statement
+1537711764442	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/7aff3b3b6c88.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/7aff3b3b6c88.js, line 1: unreachable code after return statement
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1537711873878	Marionette	INFO	Stopped listening on port 41893
+1537711876184	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.iorki1Xu24qi"
+
+(firefox:3864): Gtk-WARNING **: 16:11:17.093: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:3864): Gtk-WARNING **: 16:11:17.094: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1537711878556	Marionette	INFO	Listening on port 44491
+1537711878640	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537711878736	Marionette	DEBUG	[2147483649] Frame script loaded
+1537711878751	Marionette	DEBUG	[2147483649] Frame script registered
+1537711878780	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1537711880004	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/7aff3b3b6c88.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/7aff3b3b6c88.js, line 1: unreachable code after return statement
+1537711881084	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.instagram.com/accounts/login/?source=auth_switcher
+1537711883188	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.instagram.com/accounts/login/?source=auth_switcher
+
+(/usr/lib/firefox/firefox:3956): dconf-WARNING **: 16:11:26.187: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1537711886596	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/7aff3b3b6c88.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/7aff3b3b6c88.js, line 1: unreachable code after return statement
+1537711889121	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1537711891692	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/7aff3b3b6c88.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/7aff3b3b6c88.js, line 1: unreachable code after return statement
+[Parent 3864, Gecko_IOThread] WARNING: pipe error (66): Connection reset by peer: file /build/firefox-LCnNpq/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1537712160298	Marionette	INFO	Stopped listening on port 44491
+1537712163772	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.d6o789TnuU4V"
+
+(firefox:4145): Gtk-WARNING **: 16:16:04.683: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:4145): Gtk-WARNING **: 16:16:04.683: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1537712166208	Marionette	INFO	Listening on port 46479
+1537712166310	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537712166394	Marionette	DEBUG	[2147483649] Frame script loaded
+1537712166408	Marionette	DEBUG	[2147483649] Frame script registered
+1537712166453	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1537712167990	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/7aff3b3b6c88.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/7aff3b3b6c88.js, line 1: unreachable code after return statement
+1537712169041	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.instagram.com/accounts/login/?source=auth_switcher
+1537712170788	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.instagram.com/accounts/login/?source=auth_switcher
+
+(/usr/lib/firefox/firefox:4241): dconf-WARNING **: 16:16:14.114: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1537712174536	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/7aff3b3b6c88.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/7aff3b3b6c88.js, line 1: unreachable code after return statement
+1537712177175	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1537712179842	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 4145, Gecko_IOThread] WARNING: pipe error (69): Connection reset by peer: file /build/firefox-LCnNpq/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1537713718695	Marionette	INFO	Stopped listening on port 46479
+1537713723516	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.skcUUKQSs331"
+
+(firefox:4464): Gtk-WARNING **: 16:42:04.413: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:4464): Gtk-WARNING **: 16:42:04.413: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1537713725784	Marionette	INFO	Listening on port 39889
+1537713725867	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537713725941	Marionette	DEBUG	[2147483649] Frame script loaded
+1537713725948	Marionette	DEBUG	[2147483649] Frame script registered
+1537713725993	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1537713732316	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/7aff3b3b6c88.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/7aff3b3b6c88.js, line 1: unreachable code after return statement
+1537713734148	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.instagram.com/accounts/login/?source=auth_switcher
+1537713740401	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.instagram.com/accounts/login/?source=auth_switcher
+
+(/usr/lib/firefox/firefox:4559): dconf-WARNING **: 16:42:21.004: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1537713741421	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/7aff3b3b6c88.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/7aff3b3b6c88.js, line 1: unreachable code after return statement
+1537713743875	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1537713746163	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://www.instagram.com/
+1537713746519	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://www.instagram.com/
+1537713746531	Marionette	DEBUG	[2147483649] Received DOM event unload for https://www.instagram.com/
+1537713746580	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483659
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/7aff3b3b6c88.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/7aff3b3b6c88.js, line 1: unreachable code after return statement
+1537713746912	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.instagram.com/explore/locations/
+1537713747423	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.instagram.com/explore/locations/
+[Parent 4464, Gecko_IOThread] WARNING: pipe error (69): Connection reset by peer: file /build/firefox-LCnNpq/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1537713755510	Marionette	INFO	Stopped listening on port 39889
+1537713758536	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.G5okUdro8Fwg"
+
+(firefox:4704): Gtk-WARNING **: 16:42:39.438: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:4704): Gtk-WARNING **: 16:42:39.438: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1537713760903	Marionette	INFO	Listening on port 40507
+1537713760980	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537713761054	Marionette	DEBUG	[2147483649] Frame script loaded
+1537713761060	Marionette	DEBUG	[2147483649] Frame script registered
+1537713761100	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1537713761891	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/7aff3b3b6c88.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/7aff3b3b6c88.js, line 1: unreachable code after return statement
+1537713763594	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.instagram.com/accounts/login/?source=auth_switcher
+1537713765824	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.instagram.com/accounts/login/?source=auth_switcher
+
+(/usr/lib/firefox/firefox:4800): dconf-WARNING **: 16:42:46.664: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1537713767128	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/7aff3b3b6c88.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/7aff3b3b6c88.js, line 1: unreachable code after return statement
+1537713769840	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1537713772594	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1537714806211	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Z8PQImYF4xmy"
+
+(firefox:5106): Gtk-WARNING **: 17:00:07.179: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:5106): Gtk-WARNING **: 17:00:07.179: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1537714808873	Marionette	INFO	Listening on port 43549
+1537714808966	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537714809038	Marionette	DEBUG	[2147483649] Frame script loaded
+1537714809040	Marionette	DEBUG	[2147483649] Frame script registered
+1537714809062	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1537714814573	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/7aff3b3b6c88.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/7aff3b3b6c88.js, line 1: unreachable code after return statement
+1537714815841	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.instagram.com/accounts/login/?source=auth_switcher
+1537714817264	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.instagram.com/accounts/login/?source=auth_switcher
+1537714819353	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/7aff3b3b6c88.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/7aff3b3b6c88.js, line 1: unreachable code after return statement
+1537714822111	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1537714880930	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.da6DaUXzvNlB"
+
+(firefox:5326): Gtk-WARNING **: 17:01:21.889: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:5326): Gtk-WARNING **: 17:01:21.889: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1537714883431	Marionette	INFO	Listening on port 44003
+1537714883454	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537714883526	Marionette	DEBUG	[2147483649] Frame script loaded
+1537714883538	Marionette	DEBUG	[2147483649] Frame script registered
+1537714883580	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1537714884836	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/7aff3b3b6c88.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/7aff3b3b6c88.js, line 1: unreachable code after return statement
+1537714886019	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.instagram.com/accounts/login/?source=auth_switcher
+1537714888169	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.instagram.com/accounts/login/?source=auth_switcher
+
+(/usr/lib/firefox/firefox:5424): dconf-WARNING **: 17:01:30.537: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1537714890954	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/7aff3b3b6c88.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/7aff3b3b6c88.js, line 1: unreachable code after return statement
+1537714893721	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1537714896280	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+[Parent 5326, Gecko_IOThread] WARNING: pipe error (97): Connection reset by peer: file /build/firefox-LCnNpq/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Parent 4704, Gecko_IOThread] WARNING: pipe error (66): Connection reset by peer: file /build/firefox-LCnNpq/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Parent 5106, Gecko_IOThread] WARNING: pipe error (92): Connection reset by peer: file /build/firefox-LCnNpq/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1537715753058	Marionette	INFO	Stopped listening on port 40507
+1537715753076	Marionette	INFO	Stopped listening on port 44003
+1537715753133	Marionette	INFO	Stopped listening on port 43549

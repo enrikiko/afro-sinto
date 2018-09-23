@@ -87,7 +87,7 @@ def addFriend(name):
     except NoSuchElementException:
         return "Add Friend FAILS!  ERROR-002"
     try:
-        users = getXpath("//span//section//nav//div[position()=2]//div//div//div[position()=2]//div/div[position()=2]//div//a[position()=2]")
+        users = getXpath("//span//section//nav//div[position()=2]//div//div//div[position()=2]//div/div[position()=2]//div//a[position()=1]")
         users[0].click()
     except NoSuchElementException:
         return "Add Friend FAILS!  ERROR-003"
@@ -101,25 +101,30 @@ def addFriend(name):
 
 def delayFriend(name):
     try:
+        print('1')
         searchInput = getXpath("//input[@placeholder='Search']")
     except NoSuchElementException:
         return "Delay Friend FAILS!  ERROR-001"
     try:
+        print('2')
         searchInput[0].send_keys(name)
         searchInput[0].send_keys(Keys.ENTER)
     except NoSuchElementException:
         return "Delay Friend FAILS!  ERROR-002"
     try:
-        users = getXpath("//span//section//nav//div[position()=2]//div//div//div[position()=2]//div/div[position()=2]//div//a[position()=2]")
+        print('3')
+        users = getXpath("//span//section//nav//div[position()=2]//div//div//div[position()=2]//div/div[position()=2]//div//a[position()=1]")
         users[0].click()
     except NoSuchElementException:
         return "Delay Friend FAILS!  ERROR-003"
     try:
+        print('4')
         button = getXpath('//button[contains(text(), "Following")]')
         button[0].click()
     except NoSuchElementException:
         return "Delay Friend FAILS!  ERROR-004"
     try:
+        print('5')
         button = getXpath('//button[contains(text(), "Unfollow")]')
         button[0].click()
     except NoSuchElementException:
@@ -127,7 +132,25 @@ def delayFriend(name):
     return "Friend Delayed!"
 
 
+def getSuggestedPage():
+    try:
+        button = getXpath("//a[contains(@href,'/explore/')]")
+        button[0].click()
+        return True
+    except NoSuchElementException:
+        return False
 
+def addFriendsLoop():
+    certainly = False
+    isSuggested = False
+    while  certainly == False and isSuggested == False:
+        certainly = getSuggestedPage()
+        isSuggested = checkIsSuggested()
+    return "ok!"
+
+def chechIsSuggested():
+    verify = False
+    verify = getXpath()
 
 
 
