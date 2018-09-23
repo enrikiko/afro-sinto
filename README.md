@@ -1,6 +1,6 @@
 # Afro-Sinto
 
-##Configuration to install Python3 and Selenium in Linux
+## Configuration to install Python3 and Selenium in Linux
 
 **sudo apt-get install python3** to install python3
 

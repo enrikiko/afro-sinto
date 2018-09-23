@@ -145,12 +145,22 @@ def addFriendsLoop():
     isSuggested = False
     while  certainly == False and isSuggested == False:
         certainly = getSuggestedPage()
-        isSuggested = checkIsSuggested()
-    return "ok!"
+        isSuggested = checkExistsByXpath("Suggested")
+    return True
 
-def chechIsSuggested():
-    verify = False
-    verify = getXpath()
+# def chechIsSuggested():
+#     item = False
+#     count = 5
+#     while item == False and count >= 0:
+#         sleep(0.2)
+#         print("checking Suggested")
+#         item = checkExistsByXpath(path)
+#         count = count - 1
+#     if count <= 0:
+#         print("xpath not found!")
+#     else:
+#         print("xpath found!")
+#         return item
 
 
 
