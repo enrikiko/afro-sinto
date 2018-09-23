@@ -12,7 +12,7 @@ browser.set_window_position(0, 0)
 # browser.set_window_size(1000,500)
 
 #Set browser size
-browser.set_window_size(1000,700)
+browser.set_window_size(1000,2000)
 
 #Enter the credencial
 input = getXpath('//input')
@@ -28,7 +28,10 @@ print(ribOutBanned())
 
 sleep(2)
 
+
+
 print(addFriendsLoop())
+
 # print(addFriend("EnriqueIglesias"))
 # print(delayFriend("EnriqueIglesias"))
 # browser.get(basic)   #this is not working

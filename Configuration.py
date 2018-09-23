@@ -4,6 +4,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
 from selenium.common.exceptions import NoSuchElementException
 browser = webdriver.Firefox(executable_path="/home/enrique/afro-sinto/geckodriver") #execute by shell
+suggested = 'https://www.instagram.com/explore/people/suggested/'
 
 
 
@@ -131,36 +132,26 @@ def delayFriend(name):
         return "Delay Friend FAILS!  ERROR-005"
     return "Friend Delayed!"
 
-
-def getSuggestedPage():
-    try:
-        button = getXpath("//a[contains(@href,'/explore/')]")
-        button[0].click()
-        return True
-    except NoSuchElementException:
-        return False
-
 def addFriendsLoop():
-    certainly = False
-    isSuggested = False
-    while  certainly == False and isSuggested == False:
-        certainly = getSuggestedPage()
-        isSuggested = checkExistsByXpath("Suggested")
-    return True
+    browser.get(suggested)
+    followList = getXpath('//button[contains(text(), "Follow")]')
+    lenght = len(followList)
+    while lenght > 0:
+        followList[lenght - 1].click()
+        lenght = lenght - 1
+    # browser.execute_script("window.scrollTo(0, 50);")
+    browser.execute_script("window.scrollTo(0, document.body.scrollHeight);")
+    sleep(2)
+    browser.execute_script("window.scrollTo(0, document.body.scrollHeight);")
+    followList = getXpath('//button[contains(text(), "Follow")]')
+    lenght = len(followList)
+    while lenght > 0:
+        followList[lenght - 1].click()
+        lenght = lenght - 1
 
-# def chechIsSuggested():
-#     item = False
-#     count = 5
-#     while item == False and count >= 0:
-#         sleep(0.2)
-#         print("checking Suggested")
-#         item = checkExistsByXpath(path)
-#         count = count - 1
-#     if count <= 0:
-#         print("xpath not found!")
-#     else:
-#         print("xpath found!")
-#         return item
+
+
+
 
 
 
