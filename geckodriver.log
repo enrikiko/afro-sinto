@@ -10089,3 +10089,1152 @@ JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommon
 1538340904048	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
 1538340909544	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
 1538340916485	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538340927446	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538340935487	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538340945438	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538340952340	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538340963294	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538340974244	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538340981194	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538340991130	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538341001092	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538341009027	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 12261, Gecko_IOThread] WARNING: pipe error (69): Connection reset by peer: file /build/firefox-LCnNpq/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1538341253855	Marionette	INFO	Stopped listening on port 38397
+1538341260932	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.5wcY3rey3KAs"
+
+(firefox:12642): Gtk-WARNING **: 23:01:01.919: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:12642): Gtk-WARNING **: 23:01:01.921: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1538341263365	Marionette	INFO	Listening on port 42353
+1538341263478	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538341263567	Marionette	DEBUG	[2147483649] Frame script loaded
+1538341263572	Marionette	DEBUG	[2147483649] Frame script registered
+1538341263603	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1538341265908	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/acc77fc8868a.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/acc77fc8868a.js, line 1: unreachable code after return statement
+1538341266627	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.instagram.com/accounts/login/?source=auth_switcher
+1538341269014	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.instagram.com/accounts/login/?source=auth_switcher
+
+(/usr/lib/firefox/firefox:12738): dconf-WARNING **: 23:01:11.279: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1538341271919	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/acc77fc8868a.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/acc77fc8868a.js, line 1: unreachable code after return statement
+1538341274813	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538341275792	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538341276005	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://www.instagram.com/
+1538341276339	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://www.instagram.com/
+1538341276365	Marionette	DEBUG	[2147483649] Received DOM event unload for https://www.instagram.com/
+1538341276434	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483663
+1538341276435	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483660
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/acc77fc8868a.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/acc77fc8868a.js, line 1: unreachable code after return statement
+1538341276879	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.instagram.com/explore/
+1538341277497	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.instagram.com/explore/
+1538341279608	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538341279913	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538341282491	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538341293095	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538341302684	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538341309225	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538341315734	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538341323283	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538341329784	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538341336321	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538341343823	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538341352348	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538341360850	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538341370379	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538341380874	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538341386380	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538341391836	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538341397379	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538341402882	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538341410433	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538341416924	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538341425458	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538341435953	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538341442472	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538341450993	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538341458567	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538341464078	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538341471609	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538341477117	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538341482668	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538341492172	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538341499716	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538341505234	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538341512765	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538341523293	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538341530963	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538341538462	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538341549004	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538341555505	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538341564056	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538341571608	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538341578102	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538341586652	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538341596214	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538341606741	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538341617302	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538341627807	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538341634762	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538341644714	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538341654678	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538341660658	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538341671616	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538341682577	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538341688513	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538341694477	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538341705030	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538341711516	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538341722086	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538341728596	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/acc77fc8868a.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/acc77fc8868a.js, line 1: unreachable code after return statement
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1538342318374	Marionette	INFO	Stopped listening on port 42353
+1538342351976	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.fJE7OeM2h0mH"
+
+(firefox:13093): Gtk-WARNING **: 23:19:12.898: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:13093): Gtk-WARNING **: 23:19:12.898: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1538342354420	Marionette	INFO	Listening on port 41093
+1538342354522	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538342354612	Marionette	DEBUG	[2147483649] Frame script loaded
+1538342354622	Marionette	DEBUG	[2147483649] Frame script registered
+1538342354645	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1538342358207	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/acc77fc8868a.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/acc77fc8868a.js, line 1: unreachable code after return statement
+1538342359526	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.instagram.com/accounts/login/?source=auth_switcher
+1538342362610	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.instagram.com/accounts/login/?source=auth_switcher
+
+(/usr/lib/firefox/firefox:13185): dconf-WARNING **: 23:19:24.957: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1538342365578	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/acc77fc8868a.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/acc77fc8868a.js, line 1: unreachable code after return statement
+1538342368298	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538342369227	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538342369476	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://www.instagram.com/
+1538342370296	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://www.instagram.com/
+1538342370338	Marionette	DEBUG	[2147483649] Received DOM event unload for https://www.instagram.com/
+1538342370407	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483663
+1538342370407	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483660
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/acc77fc8868a.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/acc77fc8868a.js, line 1: unreachable code after return statement
+1538342370755	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.instagram.com/afrosinto2018/
+1538342371437	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.instagram.com/afrosinto2018/
+1538342522302	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/acc77fc8868a.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/acc77fc8868a.js, line 1: unreachable code after return statement
+console.error: "Error while calling actor 'pagestyle's method 'getComputed'" "node is null"
+console.error: "getComputed@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:227:5\nhandler@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:1159:21\nonPacket@resource://devtools/shared/base-loader.js -> resource://devtools/server/main.js:1783:15\nreceiveMessage@resource://devtools/shared/base-loader.js -> resource://devtools/shared/transport/transport.js:735:7\n"
+console.error: "TypeError: this.onSelected is not a function: onDetachedFront@resource://devtools/shared/base-loader.js -> resource://devtools/client/inspector/computed/computed.js:1461:5\nemit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:178:37\nemit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:255:29\n_onMutations@resource://devtools/shared/base-loader.js -> resource://devtools/client/framework/selection.js:105:7\nemit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:178:37\nemit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:255:29\nWalkerFront<.getMutations</<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/fronts/inspector.js:420:7\n"
+TypeError: this.onSelected is not a function: onDetachedFront@resource://devtools/shared/base-loader.js -> resource://devtools/client/inspector/computed/computed.js:1461:5
+emit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:178:37
+emit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:255:29
+_onMutations@resource://devtools/shared/base-loader.js -> resource://devtools/client/framework/selection.js:105:7
+emit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:178:37
+emit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:255:29
+WalkerFront<.getMutations</<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/fronts/inspector.js:420:7
+
+console.error: "Protocol error (unknownError): node is null"
+console.error: "TypeError: this.onSelected is not a function: onDetachedFront@resource://devtools/shared/base-loader.js -> resource://devtools/client/inspector/computed/computed.js:1461:5\nemit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:178:37\nemit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:255:29\n_onMutations@resource://devtools/shared/base-loader.js -> resource://devtools/client/framework/selection.js:105:7\nemit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:178:37\nemit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:255:29\nWalkerFront<.getMutations</<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/fronts/inspector.js:420:7\n"
+TypeError: this.onSelected is not a function: onDetachedFront@resource://devtools/shared/base-loader.js -> resource://devtools/client/inspector/computed/computed.js:1461:5
+emit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:178:37
+emit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:255:29
+_onMutations@resource://devtools/shared/base-loader.js -> resource://devtools/client/framework/selection.js:105:7
+emit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:178:37
+emit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:255:29
+WalkerFront<.getMutations</<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/fronts/inspector.js:420:7
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 13093, Gecko_IOThread] WARNING: pipe error (100): Connection reset by peer: file /build/firefox-LCnNpq/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Parent 13093, Gecko_IOThread] WARNING: pipe error (64): Connection reset by peer: file /build/firefox-LCnNpq/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1538342750495	Marionette	INFO	Stopped listening on port 41093
+1538342754396	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.u95QlfdrjySm"
+
+(firefox:13381): Gtk-WARNING **: 23:25:55.320: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:13381): Gtk-WARNING **: 23:25:55.320: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1538342756716	Marionette	INFO	Listening on port 44337
+1538342756840	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538342756929	Marionette	DEBUG	[2147483649] Frame script loaded
+1538342756942	Marionette	DEBUG	[2147483649] Frame script registered
+1538342756990	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1538342760444	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/acc77fc8868a.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/acc77fc8868a.js, line 1: unreachable code after return statement
+1538342761140	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.instagram.com/accounts/login/?source=auth_switcher
+1538342762745	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.instagram.com/accounts/login/?source=auth_switcher
+
+(/usr/lib/firefox/firefox:13440): dconf-WARNING **: 23:26:04.480: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1538342765135	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/acc77fc8868a.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/acc77fc8868a.js, line 1: unreachable code after return statement
+1538342767702	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538342768571	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538342768808	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://www.instagram.com/
+1538342769304	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://www.instagram.com/
+1538342769318	Marionette	DEBUG	[2147483649] Received DOM event unload for https://www.instagram.com/
+1538342769370	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483663
+1538342769371	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483660
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/acc77fc8868a.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/acc77fc8868a.js, line 1: unreachable code after return statement
+1538342769729	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.instagram.com/afrosinto2018/
+1538342770509	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.instagram.com/afrosinto2018/
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/acc77fc8868a.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/acc77fc8868a.js, line 1: unreachable code after return statement
+1538342888495	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.xRWk8oG6EhuU"
+
+(firefox:13635): Gtk-WARNING **: 23:28:09.480: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:13635): Gtk-WARNING **: 23:28:09.480: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1538342891175	Marionette	INFO	Listening on port 38509
+1538342891227	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538342891300	Marionette	DEBUG	[2147483649] Frame script loaded
+1538342891308	Marionette	DEBUG	[2147483649] Frame script registered
+1538342891335	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1538342893572	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/acc77fc8868a.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/acc77fc8868a.js, line 1: unreachable code after return statement
+1538342894353	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.instagram.com/accounts/login/?source=auth_switcher
+1538342896251	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.instagram.com/accounts/login/?source=auth_switcher
+1538342898911	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/acc77fc8868a.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/acc77fc8868a.js, line 1: unreachable code after return statement
+1538342901562	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538342902258	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538342902700	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://www.instagram.com/
+1538342903194	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://www.instagram.com/
+1538342903200	Marionette	DEBUG	[2147483649] Received DOM event unload for https://www.instagram.com/
+1538342903247	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483663
+1538342903249	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483660
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/acc77fc8868a.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/acc77fc8868a.js, line 1: unreachable code after return statement
+1538342903605	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.instagram.com/afrosinto2018/
+1538342904241	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.instagram.com/afrosinto2018/
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/acc77fc8868a.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/acc77fc8868a.js, line 1: unreachable code after return statement
+[Parent 13635, Gecko_IOThread] WARNING: pipe error (73): Connection reset by peer: file /build/firefox-LCnNpq/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1538342983898	Marionette	INFO	Stopped listening on port 38509
+1538342986550	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.2pP9iGP48w0m"
+
+(firefox:13896): Gtk-WARNING **: 23:29:47.472: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:13896): Gtk-WARNING **: 23:29:47.473: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1538342988976	Marionette	INFO	Listening on port 43655
+1538342989074	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538342989150	Marionette	DEBUG	[2147483649] Frame script loaded
+1538342989155	Marionette	DEBUG	[2147483649] Frame script registered
+1538342989193	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1538342990486	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/acc77fc8868a.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/acc77fc8868a.js, line 1: unreachable code after return statement
+1538342991165	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.instagram.com/accounts/login/?source=auth_switcher
+1538342992247	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.instagram.com/accounts/login/?source=auth_switcher
+
+(/usr/lib/firefox/firefox:13984): dconf-WARNING **: 23:29:53.851: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1538342994489	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/acc77fc8868a.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/acc77fc8868a.js, line 1: unreachable code after return statement
+1538342997166	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538342997954	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538342998200	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://www.instagram.com/
+1538342998704	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://www.instagram.com/
+1538342998728	Marionette	DEBUG	[2147483649] Received DOM event unload for https://www.instagram.com/
+1538342998782	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483663
+1538342998782	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483660
+1538342998782	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483665
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/acc77fc8868a.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/acc77fc8868a.js, line 1: unreachable code after return statement
+1538342999155	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.instagram.com/afrosinto2018/
+1538342999914	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.instagram.com/afrosinto2018/
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/acc77fc8868a.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/acc77fc8868a.js, line 1: unreachable code after return statement
+1538343607297	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.lwnMQGzTcW8z"
+
+(firefox:1486): Gtk-WARNING **: 23:40:09.052: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:1486): Gtk-WARNING **: 23:40:09.053: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1538343610830	Marionette	INFO	Listening on port 38121
+1538343610944	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538343611020	Marionette	DEBUG	[2147483649] Frame script loaded
+1538343611047	Marionette	DEBUG	[2147483649] Frame script registered
+1538343611083	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1538343616066	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/acc77fc8868a.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/acc77fc8868a.js, line 1: unreachable code after return statement
+1538343616784	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.instagram.com/accounts/login/?source=auth_switcher
+1538343635111	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.instagram.com/accounts/login/?source=auth_switcher
+
+(/usr/lib/firefox/firefox:1615): dconf-WARNING **: 23:40:37.728: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1538343638307	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/acc77fc8868a.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/acc77fc8868a.js, line 1: unreachable code after return statement
+1538343640891	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538343641829	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538343642036	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://www.instagram.com/
+1538343642507	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://www.instagram.com/
+1538343642530	Marionette	DEBUG	[2147483649] Received DOM event unload for https://www.instagram.com/
+1538343642596	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483662
+1538343642596	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483659
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/acc77fc8868a.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/acc77fc8868a.js, line 1: unreachable code after return statement
+1538343642934	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.instagram.com/afrosinto2018/
+1538343644273	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.instagram.com/afrosinto2018/
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/acc77fc8868a.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/acc77fc8868a.js, line 1: unreachable code after return statement
+1538343798618	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.SKc4Nnawn4vF"
+
+(firefox:1971): Gtk-WARNING **: 23:43:19.527: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:1971): Gtk-WARNING **: 23:43:19.527: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1538343800978	Marionette	INFO	Listening on port 42359
+1538343801077	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538343801157	Marionette	DEBUG	[2147483649] Frame script loaded
+1538343801169	Marionette	DEBUG	[2147483649] Frame script registered
+1538343801200	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1538343802371	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/acc77fc8868a.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/acc77fc8868a.js, line 1: unreachable code after return statement
+1538343803208	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.instagram.com/accounts/login/?source=auth_switcher
+1538343804442	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.instagram.com/accounts/login/?source=auth_switcher
+
+(/usr/lib/firefox/firefox:2069): dconf-WARNING **: 23:43:26.141: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1538343806766	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/acc77fc8868a.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/acc77fc8868a.js, line 1: unreachable code after return statement
+1538343809318	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538343810075	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483665
+1538343810222	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538343810434	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://www.instagram.com/
+1538343811061	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://www.instagram.com/
+1538343811066	Marionette	DEBUG	[2147483649] Received DOM event unload for https://www.instagram.com/
+1538343811128	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483663
+1538343811133	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483660
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/acc77fc8868a.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/acc77fc8868a.js, line 1: unreachable code after return statement
+1538343811510	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.instagram.com/afrosinto2018/
+1538343812165	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.instagram.com/afrosinto2018/
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/acc77fc8868a.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/acc77fc8868a.js, line 1: unreachable code after return statement
+console.error: "Error while calling actor 'pagestyle's method 'getComputed'" "node is null"
+console.error: "getComputed@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:227:5\nhandler@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:1159:21\nonPacket@resource://devtools/shared/base-loader.js -> resource://devtools/server/main.js:1783:15\nreceiveMessage@resource://devtools/shared/base-loader.js -> resource://devtools/shared/transport/transport.js:735:7\n"
+console.error: "TypeError: this.onSelected is not a function: onDetachedFront@resource://devtools/shared/base-loader.js -> resource://devtools/client/inspector/computed/computed.js:1461:5\nemit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:178:37\nemit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:255:29\n_onMutations@resource://devtools/shared/base-loader.js -> resource://devtools/client/framework/selection.js:105:7\nemit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:178:37\nemit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:255:29\nWalkerFront<.getMutations</<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/fronts/inspector.js:420:7\n"
+TypeError: this.onSelected is not a function: onDetachedFront@resource://devtools/shared/base-loader.js -> resource://devtools/client/inspector/computed/computed.js:1461:5
+emit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:178:37
+emit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:255:29
+_onMutations@resource://devtools/shared/base-loader.js -> resource://devtools/client/framework/selection.js:105:7
+emit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:178:37
+emit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:255:29
+WalkerFront<.getMutations</<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/fronts/inspector.js:420:7
+
+console.error: "Protocol error (unknownError): node is null"
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/acc77fc8868a.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/acc77fc8868a.js, line 1: unreachable code after return statement
+console.error: "Error while calling actor 'highlighter's method 'showBoxModel'" "can't access dead object"
+console.error: "_untrackMutations@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js:322:7\n_hide@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js:368:5\n_update@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js:350:7\n_show@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js:302:19\nshow@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js:112:19\nshowBoxModel@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters.js:187:19\nhandler@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:1159:21\nonPacket@resource://devtools/shared/base-loader.js -> resource://devtools/server/main.js:1783:15\nreceiveMessage@resource://devtools/shared/base-loader.js -> resource://devtools/shared/transport/transport.js:735:7\n"
+console.error: "Protocol error (unknownError): can't access dead object"
+console.error: "Error while calling actor 'highlighter's method 'showBoxModel'" "can't access dead object"
+console.error: "_untrackMutations@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js:322:7\n_hide@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js:368:5\n_update@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js:350:7\n_show@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js:302:19\nshow@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js:112:19\nshowBoxModel@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters.js:187:19\nhandler@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:1159:21\nonPacket@resource://devtools/shared/base-loader.js -> resource://devtools/server/main.js:1783:15\nreceiveMessage@resource://devtools/shared/base-loader.js -> resource://devtools/shared/transport/transport.js:735:7\n"
+console.error: "Protocol error (unknownError): can't access dead object"
+console.error: "Error while calling actor 'highlighter's method 'showBoxModel'" "can't access dead object"
+console.error: "_untrackMutations@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js:322:7\n_hide@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js:368:5\n_update@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js:350:7\n_show@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js:302:19\nshow@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js:112:19\nshowBoxModel@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters.js:187:19\nhandler@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:1159:21\nonPacket@resource://devtools/shared/base-loader.js -> resource://devtools/server/main.js:1783:15\nreceiveMessage@resource://devtools/shared/base-loader.js -> resource://devtools/shared/transport/transport.js:735:7\n"
+console.error: "Protocol error (unknownError): can't access dead object"
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1538344972010	Marionette	INFO	Stopped listening on port 42359
+1538345034374	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.LRZ80wYexrD9"
+
+(firefox:3024): Gtk-WARNING **: 00:03:55.303: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:3024): Gtk-WARNING **: 00:03:55.303: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1538345036668	Marionette	INFO	Listening on port 36683
+1538345036721	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538345036812	Marionette	DEBUG	[2147483649] Frame script loaded
+1538345036832	Marionette	DEBUG	[2147483649] Frame script registered
+1538345036868	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1538345041806	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/acc77fc8868a.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/acc77fc8868a.js, line 1: unreachable code after return statement
+1538345042585	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.instagram.com/accounts/login/?source=auth_switcher
+1538345051434	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.instagram.com/accounts/login/?source=auth_switcher
+
+(/usr/lib/firefox/firefox:3083): dconf-WARNING **: 00:04:12.091: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1538345052724	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/acc77fc8868a.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/acc77fc8868a.js, line 1: unreachable code after return statement
+1538345055251	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538345056185	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538345056398	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://www.instagram.com/
+1538345056902	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://www.instagram.com/
+1538345056908	Marionette	DEBUG	[2147483649] Received DOM event unload for https://www.instagram.com/
+1538345056972	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483663
+1538345056975	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483660
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/acc77fc8868a.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/acc77fc8868a.js, line 1: unreachable code after return statement
+1538345057323	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.instagram.com/afrosinto2018/
+1538345057984	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.instagram.com/afrosinto2018/
+1538345059500	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538345060978	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/acc77fc8868a.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/acc77fc8868a.js, line 1: unreachable code after return statement
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 3024, Gecko_IOThread] WARNING: pipe error (73): Connection reset by peer: file /build/firefox-LCnNpq/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1538345288655	Marionette	INFO	Stopped listening on port 36683
+1538345326988	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.HpPhKQFIA6n1"
+
+(firefox:3388): Gtk-WARNING **: 00:08:47.911: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:3388): Gtk-WARNING **: 00:08:47.911: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1538345329547	Marionette	INFO	Listening on port 38563
+1538345329628	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538345329703	Marionette	DEBUG	[2147483649] Frame script loaded
+1538345329709	Marionette	DEBUG	[2147483649] Frame script registered
+1538345329783	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1538345331893	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/acc77fc8868a.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/acc77fc8868a.js, line 1: unreachable code after return statement
+1538345332624	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.instagram.com/accounts/login/?source=auth_switcher
+1538345334399	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.instagram.com/accounts/login/?source=auth_switcher
+1538345336954	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/acc77fc8868a.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/acc77fc8868a.js, line 1: unreachable code after return statement
+1538345339520	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538345340287	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538345340556	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://www.instagram.com/
+1538345341073	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://www.instagram.com/
+1538345341087	Marionette	DEBUG	[2147483649] Received DOM event unload for https://www.instagram.com/
+1538345341170	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483663
+1538345341172	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483660
+1538345341174	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483665
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/acc77fc8868a.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/acc77fc8868a.js, line 1: unreachable code after return statement
+1538345341500	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.instagram.com/afrosinto2018/
+1538345342095	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.instagram.com/afrosinto2018/
+1538345343671	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538345345213	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538345345706	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538345588670	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.C2rHt7EdJqBH"
+
+(firefox:3634): Gtk-WARNING **: 00:13:09.615: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:3634): Gtk-WARNING **: 00:13:09.615: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1538345591307	Marionette	INFO	Listening on port 33919
+1538345591399	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538345591487	Marionette	DEBUG	[2147483649] Frame script loaded
+1538345591491	Marionette	DEBUG	[2147483649] Frame script registered
+1538345591520	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1538345594836	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/acc77fc8868a.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/acc77fc8868a.js, line 1: unreachable code after return statement
+1538345595602	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.instagram.com/accounts/login/?source=auth_switcher
+1538345597653	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.instagram.com/accounts/login/?source=auth_switcher
+
+(/usr/lib/firefox/firefox:3729): dconf-WARNING **: 00:13:19.560: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1538345600163	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/acc77fc8868a.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/acc77fc8868a.js, line 1: unreachable code after return statement
+1538345603003	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538345603877	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538345604094	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://www.instagram.com/
+1538345604566	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://www.instagram.com/
+1538345604576	Marionette	DEBUG	[2147483649] Received DOM event unload for https://www.instagram.com/
+1538345604627	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483663
+1538345604627	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483660
+1538345604629	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483665
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/acc77fc8868a.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/acc77fc8868a.js, line 1: unreachable code after return statement
+1538345605015	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.instagram.com/afrosinto2018/
+1538345605726	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.instagram.com/afrosinto2018/
+1538345607256	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538345608749	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538345609262	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538345609836	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538345610317	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538345610794	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538345611286	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538345611744	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538345612244	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538345612699	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538345613223	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538345613676	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538345614133	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538345614544	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483674
+1538345614595	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538345615061	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538345615522	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538345616009	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538345616496	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538345616977	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538345617434	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538345617913	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538345618416	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538345618895	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538345619348	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538345619812	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538345620190	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483676
+1538345620275	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538345620748	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538345621214	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538345621681	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538345622194	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538345622651	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538345623137	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538345623602	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538345624052	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538345624549	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538345625059	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538345625523	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+[Child 3729, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-LCnNpq/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Child 3729, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-LCnNpq/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Parent 3634, Gecko_IOThread] WARNING: pipe error (64): Connection reset by peer: file /build/firefox-LCnNpq/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1538345655244	Marionette	INFO	Stopped listening on port 33919
+[Parent 3388, Gecko_IOThread] WARNING: pipe error (100): Connection reset by peer: file /build/firefox-LCnNpq/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Parent 3388, Gecko_IOThread] WARNING: pipe error (69): Connection reset by peer: file /build/firefox-LCnNpq/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1538345677082	Marionette	INFO	Stopped listening on port 38563
+1538345678954	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.GiuVAtmF6JgJ"
+
+(firefox:3938): Gtk-WARNING **: 00:14:39.917: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:3938): Gtk-WARNING **: 00:14:39.917: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1538345681441	Marionette	INFO	Listening on port 34977
+1538345681520	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538345681618	Marionette	DEBUG	[2147483649] Frame script loaded
+1538345681621	Marionette	DEBUG	[2147483649] Frame script registered
+1538345681639	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1538345682860	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/acc77fc8868a.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/acc77fc8868a.js, line 1: unreachable code after return statement
+1538345683594	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.instagram.com/accounts/login/?source=auth_switcher
+1538345684154	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.instagram.com/accounts/login/?source=auth_switcher
+1538345687056	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/acc77fc8868a.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/acc77fc8868a.js, line 1: unreachable code after return statement
+1538345689573	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538345690273	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538345690486	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://www.instagram.com/
+1538345690924	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://www.instagram.com/
+1538345690937	Marionette	DEBUG	[2147483649] Received DOM event unload for https://www.instagram.com/
+1538345690985	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483663
+1538345690989	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483660
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/acc77fc8868a.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/acc77fc8868a.js, line 1: unreachable code after return statement
+1538345691313	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.instagram.com/explore/
+1538345692169	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.instagram.com/explore/
+1538345694141	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538345694449	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538345696956	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538345704573	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected

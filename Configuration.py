@@ -7,6 +7,7 @@ from selenium.common.exceptions import NoSuchElementException
 browser = webdriver.Firefox(executable_path="/home/enrique/afro-sinto/geckodriver") #execute by shell
 suggested = 'https://www.instagram.com/explore/people/suggested/'
 explore = 'https://www.instagram.com/explore/'
+following = 'https://www.instagram.com/afrosinto2018/following/'
 
 
 
@@ -189,6 +190,24 @@ def addFriendsLoopExplore():
         sig = getXpath('//a[contains(text(),"Next")]')
         clickElement(sig[0])
         sleep(randint(5,10))
+
+def deleteFriends():
+    browser.get(following)
+    sleep(1)
+    # button = getXpath('//a[contains(text(), "following")]')
+    button = getXpath('//a[@href="/afrosinto2018/following/"]')
+    clickElement(button[0])
+    sleep(1)
+    count = 0
+    while True:
+        button = getXpath('//ul//div//li//div/div//button[contains(text(), "Following")]')
+        clickElement(button[count])
+        unfollow = getXpath('//button[contains(text(), "Unfollow")]')
+        clickElement(unfollow[0])
+        count = count + 1
+        sleep(0.2)
+
+
 
 
 

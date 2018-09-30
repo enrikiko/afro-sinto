@@ -34,10 +34,9 @@ print(ribOutBanned())
 
 sleep(0.2)
 
-
+# print(deleteFriends())
 print(addFriendsLoopExplore())
 # print(addFriendsLoop())
-
 # print(addFriend("EnriqueIglesias"))
 # print(delayFriend("EnriqueIglesias"))
 # browser.get(basic)   #this is not working
