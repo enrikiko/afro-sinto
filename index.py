@@ -12,31 +12,29 @@ browser.set_window_position(0, 0)
 # browser.set_window_size(1000,500)
 
 #Set browser size
-browser.set_window_size(1000,2000)
+browser.set_window_size(3000,2000)
 
-#Enter the credencial
+#<Enter the credencial>
 input = getXpath('//input')
 input[0].send_keys('Afrosinto2018')
 input[1].send_keys('Qwer1234')
-
 sleep(0.2)
-
 button = getXpath('//button[contains(text(), "Log in")]')
 button[0].click()
-
 sleep(0.2)
+#</Enter the credencial>
 
+#<Delay Banner>
 print(turnOnSound())
-
 sleep(0.2)
-
 print(ribOutBanned())
-
 sleep(0.2)
+#</Delay Banner>
 
-# print(deleteFriends())
+
 print(addFriendsLoopExplore())
 # print(addFriendsLoop())
 # print(addFriend("EnriqueIglesias"))
 # print(delayFriend("EnriqueIglesias"))
 # browser.get(basic)   #this is not working
+# print(deleteFriends())
