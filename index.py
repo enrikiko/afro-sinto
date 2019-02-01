@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 def download_pdf(lnk):
 
     from selenium import webdriver
@@ -46,6 +47,11 @@ download_pdf("http://www.poderjudicial.es/search/contenidos.action?action=conten
 ########################
 # #Set the url
 # url = 'http://www.poderjudicial.es/search/contenidos.action?action=contentpdf&databasematch=TS&reference=8549179&links=&optimize=20181026&publicinterface=true'
+=======
+#Set the url
+url = 'https://www.instagram.com/accounts/login/?source=auth_switcher'
+basic = 'https://www.instagram.com/'
+>>>>>>> bb3997004fc6d367d51cb903e2f2f1cc970305a2
 #Import Configuration and functions
 # from Configuration import *
 
@@ -59,12 +65,18 @@ download_pdf("http://www.poderjudicial.es/search/contenidos.action?action=conten
 # #Set browser size
 # browser.set_window_size(1200,800)
 
+<<<<<<< HEAD
+=======
+#Set browser size
+browser.set_window_size(1000,2000)
+>>>>>>> bb3997004fc6d367d51cb903e2f2f1cc970305a2
 
 # #Enter the credencial
 # input = getXpath('//input')
 # input[0].send_keys('Afrosinto2018')
 # input[1].send_keys('Qwer1234')
 
+<<<<<<< HEAD
 # button = getXpath('//button[contains(text(), "Log in")]')
 # button[0].click()
 
@@ -78,3 +90,27 @@ download_pdf("http://www.poderjudicial.es/search/contenidos.action?action=conten
 # button = getXpath('//button[contains(text(), "Follow")]')
 # button[0].click()
 # #
+=======
+sleep(0.2)
+
+button = getXpath('//button[contains(text(), "Log in")]')
+button[0].click()
+
+sleep(0.2)
+
+print(turnOnSound())
+
+sleep(0.2)
+
+print(ribOutBanned())
+
+sleep(0.2)
+
+
+print(addFriendsLoopExplore())
+# print(addFriendsLoop())
+
+# print(addFriend("EnriqueIglesias"))
+# print(delayFriend("EnriqueIglesias"))
+# browser.get(basic)   #this is not working
+>>>>>>> bb3997004fc6d367d51cb903e2f2f1cc970305a2

@@ -1,6 +1,6 @@
 # Afro-Sinto
 
-##Configuration to install Python3 and Selenium in Linux
+## Configuration to install Python3 and Selenium in Linux
 
 **sudo apt-get install python3** to install python3
 
@@ -26,3 +26,5 @@ Documentation:
  > [Monday(Workflow Enviroment)](https://auth.monday.com/login)
 
  > [Create new branch Git](https://github.com/Kunena/Kunena-Forum/wiki/Create-a-new-branch-with-git-and-manage-branches)
+
+ > [Developer's Guide](https://github.com/enrikiko/afro-sinto/blob/kike/developerGuide.md)
