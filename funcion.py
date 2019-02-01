@@ -3,7 +3,8 @@ from time import sleep
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
 from selenium.common.exceptions import NoSuchElementException
-browser = webdriver.Firefox(executable_path="/home/enrique/afro-sinto/geckodriver") #execute by shell
+
+browser = webdriver.Firefox(executable_path="D:\geckodriver") #execute by shell
 
 def checkExistsByClassName(name):
     try:
