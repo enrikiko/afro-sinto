@@ -81,7 +81,7 @@ class InstagramBot:
             unique_photos -= 1
 
 if __name__ == "__main__":
-
+    # Aqui tu usuario y pass de tu cuenta de instagram
     username = ""
     password = ""
 
